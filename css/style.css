@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: mediumaquamarine;
+  font-family: 'Nerko One', cursive;
+}
+
+.container{
+  width: 70%;
+  margin: 0 auto;
+}
+
+.header {
+  color:white;
+  font-size: 60px;
+  text-align: center;
+}
